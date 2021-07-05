@@ -36,4 +36,10 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    implementation "androidx.coordinatorlayout:coordinatorlayout:1.1.0"
+
+    implementation 'com.github.rizmaulana:floating-slideup-sheet:0.1.0'
+    implementation 'org.apmem.tools:layouts:1.10@aar'
+    implementation 'com.github.ivbaranov:materialfavoritebutton:0.1.5'
+
 }
